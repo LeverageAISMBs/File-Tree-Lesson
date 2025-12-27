@@ -1,0 +1,5 @@
+{
+  "name": "ArborCode: Structural Visualization",
+  "description": "An interactive 3D visualization dissecting File Tree Architecture through the metaphor of organic growth. Built with React, Framer Motion, and Tailwind.",
+  "requestFramePermissions": []
+}
